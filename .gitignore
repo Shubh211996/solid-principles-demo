@@ -1,0 +1,9 @@
+# Ignore compiled class files
+*.class
+
+# Ignore STS/IDE metadata
+*.log
+*.iml
+/.idea/
+/target/
+/bin/
